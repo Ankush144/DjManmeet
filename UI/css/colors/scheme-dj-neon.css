@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #00f5ff;
+  --primary-color-rgb: 0, 245, 255;
+  --accent-magenta: #ff2bd6;
+  --accent-magenta-rgb: 255, 43, 214;
+  --accent-violet: #8b5cf6;
+  --accent-violet-rgb: 139, 92, 246;
+  --bg-deep: #030308;
+  --bg-section: #080810;
+  --bg-elevated: #0e0e18;
+  --glass-bg: rgba(10, 10, 18, 0.55);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --neon-glow: 0 0 40px rgba(var(--primary-color-rgb), 0.35);
+  --neon-glow-strong: 0 0 60px rgba(var(--primary-color-rgb), 0.5), 0 0 120px rgba(var(--accent-magenta-rgb), 0.2);
+}
