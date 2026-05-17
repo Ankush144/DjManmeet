@@ -73,4 +73,58 @@ var ARTIST_CONFIG = {
     "XS Las Vegas",
     "EDC",
   ],
+  djConsole: {
+    playlistEmbed:
+      "https://open.spotify.com/embed/playlist/37i9dQZF1DX4dyzvuaRJ0n?utm_source=generator&theme=0",
+    tracks: [
+      {
+        uri: "spotify:track:4cOdK2wGLETKBW3PvgPWqT",
+        title: "Midnight Pulse",
+        artist: "DJ Manmeet",
+        genre: "House",
+      },
+      {
+        uri: "spotify:track:2LRoIwrLUOEpwp6E54Ko9Y",
+        title: "Neon Drive",
+        artist: "M83",
+        genre: "EDM",
+      },
+      {
+        uri: "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+        title: "Blinding Lights",
+        artist: "The Weeknd",
+        genre: "Pop",
+      },
+      {
+        uri: "spotify:track:7qiZfU4dY1lWllzX7mPBI3",
+        title: "Shape of You",
+        artist: "Ed Sheeran",
+        genre: "Dance",
+      },
+      {
+        uri: "spotify:track:3n3Ppam7vgaVa1iaRUc9Lp",
+        title: "Mr. Brightside",
+        artist: "The Killers",
+        genre: "Rock",
+      },
+      {
+        uri: "spotify:track:6habFhsOp2NvshLv26Fy1t",
+        title: "Uptown Funk",
+        artist: "Bruno Mars",
+        genre: "Funk",
+      },
+      {
+        uri: "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+        title: "Festival Anthem",
+        artist: "Tiësto",
+        genre: "Progressive",
+      },
+      {
+        uri: "spotify:track:5Z01UMM8FmiK6t68q1X6f5",
+        title: "Titanium",
+        artist: "David Guetta",
+        genre: "House",
+      },
+    ],
+  },
 };
